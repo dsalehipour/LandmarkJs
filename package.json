@@ -1,0 +1,29 @@
+{
+  "name": "landmarkjs",
+  "version": "0.0.1",
+  "description": "Create points of interest in your DOM. Agnostic javascript library.",
+  "main": "landmark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexKvazos/LandmarkJs"
+  },
+  "keywords": [
+    "point",
+    "of",
+    "interest",
+    "dom",
+    "highlight",
+    "onboard",
+    "on-board",
+    "agnostic"
+  ],
+  "author": "AlexKvazos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexKvazos/LandmarkJs/issues"
+  },
+  "homepage": "https://github.com/AlexKvazos/LandmarkJs"
+}
