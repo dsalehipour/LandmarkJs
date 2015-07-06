@@ -14,7 +14,7 @@
     // track the collapsed state
     var collapsed = true;
     var visited = false;
-    var position = options.position || 'landmark-top-right';
+    var position = options.position || 'top-left';
 
     // static nodes are not supported, so we change them to relative
     if (DOMNode.style.position === 'static' || !DOMNode.style.position) {
