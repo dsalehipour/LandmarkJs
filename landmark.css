@@ -57,11 +57,6 @@
   transform: rotate(45deg);
 }
 
-body {
-  padding: 100px;
-  background: #f4f5f0;
-}
-
 .landmark-poi {
   position: absolute;
   width: 35px;
