@@ -17,7 +17,7 @@
     var position = options.position || 'landmark-top-left';
 
     // static nodes are not supported, so we change them to relative
-    if (DOMNode.style.position === 'static' || !DOMNode.style.position) {
+    if (DOMNode.style.position === 'static') {
       DOMNode.style.position = 'relative';
     }
 
