@@ -147,12 +147,12 @@ body {
   display: none;
 }
 
-.landmark-poi.top-right {
+.landmark-poi.landmark-top-right {
   top: 0;
   right: 0;
 }
 
-.landmark-poi.top-left {
+.landmark-poi.landmark-top-left {
   top: -20px;
   left: -20px;
 }
