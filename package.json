@@ -1,6 +1,6 @@
 {
   "name": "landmarkjs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Create points of interest in your DOM. Agnostic javascript library.",
   "main": "landmark.js",
   "scripts": {
