@@ -66,6 +66,8 @@
       }
     });
 
+    return poi;
+
   };
 
   return api;
