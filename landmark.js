@@ -62,7 +62,7 @@
 
       // if the poi got collapsed cal the onClose handler
       if (typeof options.onClose === 'function' && collapsed) {
-        options.onOpen(DOMNode, e);
+        options.onClose(DOMNode, e);
       }
     });
 

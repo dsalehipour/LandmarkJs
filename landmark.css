@@ -65,6 +65,7 @@
   border-radius: 50%;
   cursor: pointer;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 6px 0px, rgba(255, 255, 255, 0.3) 0px 1px 0px 0px inset;
+  z-index: 9999;
 }
 
 .landmark-poi::after {
