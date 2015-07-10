@@ -25,10 +25,15 @@
     var poi = document.createElement('div');
     poi.className = 'landmark-poi ' + position;
 
+    // contains arrow elements
+    var arrowContainer = document.createElement('div');
+    arrowContainer.className = 'arrow-container';
+    poi.appendChild(arrowContainer);
+
     // main arrow holder
     var arrow = document.createElement('div');
     arrow.className = 'landmark-arrow collapsed';
-    poi.appendChild(arrow);
+    arrowContainer.appendChild(arrow);
 
     // upper arrow indicator
     var arrowUpper = document.createElement('span');
